@@ -23,7 +23,7 @@ Based on the *Ars Juris* Research Memorandum, this data schema normalizes dispar
 graph LR
     A[Madame Kapferer <br><i>Original Owner</i>] --> B(Château de Brissac <br><i>Intake Facility</i>)
     B -->|Flag: ERR Entry| C(Jeu de Paume <br><i>Nazi Custody</i>)
-    C -->|Null Pointer Resolution Risk| D{PROVENANCE GAP <br>1953 - 2026}
+    C -->|Documentation Risk| D{PROVENANCE GAP <br>1953 - 2026}
     D -->|Title Liability Under HEAR Act| E[Ars Juris Estate <br><i>Donor</i>]
 
     style A fill:#edf2f7,stroke:#4a5568,stroke-width:2px;
