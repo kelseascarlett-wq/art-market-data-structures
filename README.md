@@ -4,7 +4,7 @@
 This repository houses structural data schemas designed to model illicit asset movement, provenance fragmentation, and ultimate beneficial ownership (UBO) networks. The objective is to translate qualitative provenance anomalies into machine-readable network graphs for regulatory compliance, KYC, and anti-money laundering (AML) screening.
 
 ## Case Study 1: The Ars Juris Gift & Nazi-Era Provenance
-Based on the *Ars Juris* Research Memorandum, this data schema normalizes disparate archival transaction logs into an entity-resolution model. It tracks the physical migration of Pierre Bonnard’s *Reclining Woman on Bed* (1897) through conflicting Nazi confiscation registries (ERR Database) and post-war custodial gaps.
+Based on the *Ars Juris* Research Memorandum, this data schema normalizes disparate archival transaction logs into an entity resolution model. It tracks the physical migration of Pierre Bonnard’s *Reclining Woman on Bed* (1897) through conflicting Nazi confiscation registries (ERR Database) and postwar custodial gaps.
 
 ### Entity Relationship Model (Relational Schema)
 
